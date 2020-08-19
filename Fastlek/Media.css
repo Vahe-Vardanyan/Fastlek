@@ -1,0 +1,120 @@
+@media(max-width:1136px){
+    .d1{
+        height: 700px;
+    }
+}
+@media(max-width:768px){
+    .df h1{
+        
+    font-size: 35px;
+
+    }
+}
+
+
+
+
+
+
+@media(max-width:697px)(min-width:1097px){
+   .d1{
+        height: 500px;
+    }
+    
+}
+@media(max-width:1097px){
+    
+    .p_1{
+        font-size: 25px;
+    }
+    .fastlek{
+        font-size: 120px;
+    }
+    .jog{
+        font-size: 90px;
+    }
+    .div_1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .erkrord h1{
+    font-size: 35px;
+    
+}
+   .p_0{
+       margin-top: 7px;
+       font-size: 30px;
+    }
+   .h_2{
+    font-size: 20px;
+}
+    .p_3{
+    font-size: 15px;
+    
+     font-family: Arial LatArm;
+}
+    .but_2{
+    width: 150px;
+    height: 50px;
+    
+    margin-bottom: 33px;
+}
+
+}
+
+
+
+
+
+@media(max-width:1322px){
+       
+
+.fast{
+    color: deeppink;
+    font-size: 70px;
+    float: left;
+}
+
+.h_1a{
+    font-size: 70px;
+    color: white;
+    margin-left: 0px;
+}
+.our{
+    width: 400px;
+    float: right;
+    
+}
+.isa{
+   width: 410px;
+    float: left;
+} 
+    .div_5{
+    width: 100%;
+}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
